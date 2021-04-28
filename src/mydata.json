@@ -1,0 +1,13 @@
+{
+  "message": "Hello, world.", 
+  "members": [
+    {
+      "color": "#FA3E05", 
+      "name": "ボブ"
+    }, 
+    {
+      "color": "#FFFFAA", 
+      "name": "サム"
+    }
+  ]
+}
